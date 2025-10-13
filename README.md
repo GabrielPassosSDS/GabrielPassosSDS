@@ -10,5 +10,6 @@ Meu nome é Gabriel Passos Santana dos Santos
 
 - gabrielpassos.sds@gmail.com
 - blaiinho (Discord)
+- https://www.linkedin.com/in/gabriel-passos-b6b5a42b6/
 
 ![](https://media1.tenor.com/m/F2Yu8YbVV_MAAAAC/hello-cat.gif)
