@@ -2,8 +2,8 @@
 
 Meu nome é Gabriel Passos
 
-- Estou estudando Análise e Desenvolvimento de Sistemas (3º semestre) na Universidade Santa Cecília. [Unisanta](https://unisanta.br/)
-- Estou desenvolvendo minhas habilidades JavaScript, C#, desenvolvimento web, desenvolvimento de jogos, etc. 
+- Estou estudando Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade Santa Cecília. [Unisanta](https://unisanta.br/)
+- Estou desenvolvendo minhas habilidades JavaScript, C#, Java, desenvolvimento web, desenvolvimento de jogos, etc. 
 - Utilizo esse espaço para meu desenvolvimento profissional/pessoal
 
 ### Meus contatos ⬇️
